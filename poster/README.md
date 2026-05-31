@@ -1,1 +1,1 @@
-![Framework](fig/Poster_back.png)
+![poster](../fig/Poster_back.png)
