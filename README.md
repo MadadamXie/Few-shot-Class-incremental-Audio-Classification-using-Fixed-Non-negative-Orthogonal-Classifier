@@ -21,9 +21,8 @@ To address this challenge, we propose a novel FCAC framework that integrates thr
    Introduces pseudo novel samples during the base session to effectively promote intra-class compactness.
 3. **Memory Replay Scheme (MRS)**  
 
-   Preserves and replays a small number of samples per class to maintain both inter-class separability and intra-class compactness throughout incremental sessions.
+Preserves and replays a small number of samples per class to maintain both inter-class separability and intra-class compactness throughout incremental sessions.
 Extensive experiments demonstrate that the proposed method outperforms existing baselines in terms of both **Average Accuracy (AA)** and **Comprehensive Performance Score (CPS)**.
-
 
 ![Framework](fig/Frameworks(1)_01.png)
 
